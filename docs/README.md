@@ -1,10 +1,10 @@
 # Is Bitcoin Really 'Digital Gold'? 🪙
 
-## 🔬 Hypothesis
+## 🔬 Questions to Investigate
 
-* **Safe Haven:** Does Bitcoin act like a fail safe such as Gold or a tech stock?
-* **Inflation Hedge:** How did Bitcoin and Gold behave during the record inflation of 2022-2024?
-* **Institutional Coupling:** Has institutional investment in Bitcoin made it more like Gold or like a tech stock?
+1. What is the current relationship between Bitcoin and Gold?
+2. Do Bitcoin and Gold behave similarly in the economy?
+3. How does demand differ between the two?
 
 ---
 
@@ -26,7 +26,7 @@
 
 ## 🏁 Conclusion
 
-* Vector Decomposition results showed that Gold holds a strong influence over Bitcoin, but Bitcoin barely has any influence over Gold.
-* Bitcoin behaves offensively, Gold defensively. Together they form a dual hedge system - Bitcoin against a weak currency, Gold against high prices.   
-* Demand for Bitcoin is driven by wealth expansion, demand for Gold by wealth preservation.
+1. Vector Decomposition results showed that Gold holds a strong influence over Bitcoin, but Bitcoin barely has any influence over Gold.
+2. Bitcoin behaves offensively, Gold defensively. Together they form a dual hedge system - Bitcoin against a weak currency, Gold against high prices.
+3. Demand for Bitcoin is driven by wealth expansion, demand for Gold by wealth preservation.
 
