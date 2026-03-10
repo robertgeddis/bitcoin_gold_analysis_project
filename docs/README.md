@@ -10,9 +10,9 @@
 
 ## 📊 Data Details
 
-* **Source:** 10 years of daily close price market data from the yfinance library and 10 years monthly macro economic data from the FRED API. 
-* **Cleaning:** Handled the 'Weekend Gap' for non-Bitcoin price data by creating both forward filled and synced versions to ensure consistent comparison.
-* **Normalization:** Applied Base-100 indexing to allow for an accurate comparison between a $100k (BTC) and a $2k (Gold) asset.
+* **Source:** 10 years of daily close price market data from the yfinance library and monthly macro economic data from the FRED API. 
+* **Cleaning:** Handled the 'Weekend Gap' for non-Bitcoin price data by creating both forward filled and synced versions to ensure consistent comparison between time-series and aggregated analysis.
+* **Normalization:** Applied Base-100 indexing to allow for an accurate comparison between a $100k and a $2k asset.
 
 ---
 
@@ -20,7 +20,7 @@
 
 * **Exploratory:** Plotting the 'Big Picture' to see long-term trends across all market based price metrics.
 * **Correlations:** Exploring the relationship between Bitcoin, Gold and macro-economic indexes through heatmaps, Pearson and rolling correlations.
-* **Causality:** Testing relationsips between Bitcoin, Gold and macro-economic indexes through Granger Causality Tests, Impulse Response Functions and Vector Decomposition.  
+* **Causality:** Testing relationsips through Granger Causality Tests, Impulse Response Functions and Vector Decomposition.  
 
 ---
 
